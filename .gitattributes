@@ -1,0 +1,2 @@
+ipa/Angry_Birds_7.9.6_64Bit.ipa filter=lfs diff=lfs merge=lfs -text
+*.ipa filter=lfs diff=lfs merge=lfs -text
